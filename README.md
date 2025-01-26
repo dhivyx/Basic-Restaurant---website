@@ -18,3 +18,7 @@ Integrate JavaScript for additional interactivity.
 
 Contributions
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## How to view
+1. You can access my portfolio website by visiting [https://dhivyx.github.io/Portfolio-simple-website/] feel free to explore the content and get in touch! 
+
